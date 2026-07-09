@@ -4,14 +4,14 @@ Welcome to my repository tracking my algorithmic problem-solving journey! Here, 
 
 ---
 
-### 📊 Real-Time Statistics
+## 📊 Real-Time Statistics
 
 <p align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan2082002&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Darshan's GitHub Stats" />
   
-  <!-- LeetCode Difficulty Breakdown Card -->
-  <img src="https://leetcode-stats.vercel.app/api?username=Darshan2082002&theme=tokyonight&layout=default" width="48%" alt="Darshan's LeetCode Breakdown" />
+  <!-- Reliable LeetCode Difficulty Breakdown Card -->
+  <img src="https://leetcard.jacoblin.cool/Darshan2082002?theme=tokyonight&font=Inter" width="48%" alt="Darshan's LeetCode Breakdown" />
 </p>
 
 <p align="center">

@@ -6,15 +6,10 @@ Welcome to my repository dedicated to tracking my algorithmic problem-solving jo
 
 ## 📊 Real-Time Statistics
 
-Below are my automatically updated performance metrics and coding streaks:
+Below is my automatically updated coding streak:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Darshan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Darshan's Language Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Darshan's GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan2082002&theme=radical" alt="Darshan's GitHub Streak" width="90%" />
 </p>
 
 ---

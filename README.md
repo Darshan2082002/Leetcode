@@ -8,16 +8,16 @@ Welcome to my repository dedicated to tracking my algorithmic problem-solving jo
 
 Below are my automatically updated performance metrics and coding streaks:
 
-<!-- Place your status cards side-by-side or stacked cleanly -->
 <p align="center">
-  <img src="YOUR_GITHUB_STATS_LINK_HERE" alt="Darshan's GitHub Stats" width="45%" />
-  <img src="YOUR_LEETCODE_BREAKDOWN_LINK_HERE" alt="Darshan's LeetCode Breakdown" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Darshan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Darshan's Language Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="YOUR_GITHUB_STREAK_LINK_HERE" alt="Darshan's GitHub Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Darshan's GitHub Streak" width="97%" />
 </p>
 
+---
 ---
 
 ## 🛠️ Tech Stack & Core Focus

@@ -1,32 +1,46 @@
 # 🚀 LeetCode Journey & Progression
 
-Welcome to my repository tracking my algorithmic problem-solving journey! Here, I document my solutions, track execution runtimes, and optimize memory consumption.
+Welcome to my repository dedicated to tracking my algorithmic problem-solving journey! Here, I document my solutions, track execution runtimes, and actively work on optimizing memory consumption.
 
 ---
 
 ## 📊 Real-Time Statistics
 
+Below are my automatically updated performance metrics and coding streaks:
+
+<!-- Place your status cards side-by-side or stacked cleanly -->
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan2082002&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Darshan's GitHub Stats" />
-  
-  <!-- Reliable LeetCode Difficulty Breakdown Card -->
-  <img src="https://leetcard.jacoblin.cool/Darshan2082002?theme=tokyonight&font=Inter" width="48%" alt="Darshan's LeetCode Breakdown" />
+  <img src="YOUR_GITHUB_STATS_LINK_HERE" alt="Darshan's GitHub Stats" width="45%" />
+  <img src="YOUR_LEETCODE_BREAKDOWN_LINK_HERE" alt="Darshan's LeetCode Breakdown" width="45%" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan2082002&theme=tokyonight" width="97%" alt="Darshan's GitHub Streak" />
+  <img src="YOUR_GITHUB_STREAK_LINK_HERE" alt="Darshan's GitHub Streak" width="90%" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Languages
-* **Primary Language:** Python 🐍
-* **Focus Areas:** Data Structures, Dynamic Programming, and Algorithm Optimization
+## 🛠️ Tech Stack & Core Focus
+
+> **Objective:** Writing clean, readable, and highly efficient algorithmic solutions.
+
+*   **Primary Language:** Python 🐍
+*   **Focus Areas:** 
+    *   Data Structures (Arrays, Linked Lists, Trees, Graphs)
+    *   Dynamic Programming & Greedy Algorithms
+    *   Time & Space Complexity Optimization ($O(N)$, $O(\log N)$)
 
 ---
 
-### 📈 Current Progress
-* **Total Solved:** *Will automatically update in the card above!*
-* **Recent Milestones:** Successfully automated syncing solutions via LeetSync.
+## 📈 Current Progress & Milestones
+
+*   **Total Solved:** *Automatically updated via the profile cards above.*
+*   **Automation:** Successfully integrated **LeetSync** to automate real-time solution syncing directly from LeetCode to this repository.
+
+---
+
+## 📂 Repository Structure
+
+Each folder is named after the LeetCode problem ID and title, containing:
+1. **Solution File:** Optimized Python implementation.
+2. **Performance Metrics:** Execution runtime and memory footprint tracked per submission.

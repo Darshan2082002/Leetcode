@@ -5,3 +5,4 @@ class Solution:
         """
         nums1[m:]=nums2
         return nums1.sort()
+        
